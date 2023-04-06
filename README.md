@@ -22,10 +22,10 @@
  
 <h3> 🤳 Connect with me:</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/labinotveseli/" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/8/81/LinkedIn_icon.svg" alt="labinotveseli" height="30" width="40" />in:labinotveseli</a>
-<a href="https://www.instagram.com/labinotveseli_/" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/e/e7/Instagram_logo_2016.svg" alt="labinotveseli" height="30" width="40" />labinotveseli_</a>
-<a href="https://twitter.com/LabinotVeseli" target="blank"><img align="center" src="https://cdn.cdnlogo.com/logos/t/96/twitter-icon.svg" alt="labinotveseli" height="30" width="40" />@LabinotVeseli</a>
-<a href="mailto:labinotveseli1@gmail.com" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" alt="labinotveseli" height="30" width="40" />labinotveseli1@gmail.com</a>
+<a href="https://www.linkedin.com/in/labinotveseli/" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/8/81/LinkedIn_icon.svg" alt="labinotveseli" height="30" width="40" /> in:labinotveseli</a><br/>
+<a href="https://www.instagram.com/labinotveseli_/" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/e/e7/Instagram_logo_2016.svg" alt="labinotveseli" height="30" width="40" /> labinotveseli_</a><br/>
+<a href="https://twitter.com/LabinotVeseli" target="blank"><img align="center" src="https://cdn.cdnlogo.com/logos/t/96/twitter-icon.svg" alt="labinotveseli" height="30" width="40" /> @LabinotVeseli</a><br/>
+<a href="mailto:labinotveseli1@gmail.com" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" alt="labinotveseli" height="30" width="40" /> labinotveseli1@gmail.com</a>
 
   
 [labinotveseli1@gmail.com]
