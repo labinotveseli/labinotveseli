@@ -1,6 +1,6 @@
 <h1>Hey there, fellow web wanderer!<br> 
-<h3><a href="https://github.com/labinotveseli">I am Labinot Veseli, a Front-End Developer</a>
-I'm a passionate Frontend Web Developer with an eye for detail and a love for all things digital. I specialize in developing visually stunning and intuitive web experiences that engage and delight users. My toolkit includes HTML, CSS, JavaScript, and a whole bunch of frontend frameworks and libraries like React, Bootstrap and more, which I use to build responsive, scalable, and efficient web applications that are as stylish as they are functional. When I'm not tinkering with code, you can usually find me exploring new design trends and experimenting with new web development techniques. If you're as passionate about web development as I am, let's connect and geek out together!</h3>
+<h3><a href="https://github.com/labinotveseli">I am Labinot Veseli, a Front-End Developer</a></h3>
+<h4>I am a passionate Frontend Web Developer with an eye for detail and a love for all things digital. I specialize in developing visually stunning and intuitive web experiences that engage and delight users. My toolkit includes HTML, CSS, JavaScript, and a whole bunch of frontend frameworks and libraries like React, Bootstrap and more, which I use to build responsive, scalable, and efficient web applications that are as stylish as they are functional. When I'm not tinkering with code, you can usually find me exploring new design trends and experimenting with new web development techniques. If you're as passionate about web development as I am, let's connect and geek out together!</h4>
 
 <h2>👨‍💻 Front-End Developer Projects:</h2>
 
@@ -20,7 +20,15 @@ I'm a passionate Frontend Web Developer with an eye for detail and a love for al
   
 <h2>👨‍💻 Languages and Tools:</h2>
 
-<p align="left"> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/></a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://sass-lang.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/9/96/Sass_Logo_Color.svg" alt="scss" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Tailwind_CSS_Logo.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>  <a href="https://react.dev/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg" alt="react" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> </p>  
+<img align="left" alt="HTML" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
+<img align="left" alt="CSS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" />
+<img align="left" alt="Bootstrap" width="30px" style="padding-right:10px;" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/bootstrap/bootstrap-original.svg" />
+<img align="left" alt="Tailwind" width="30px" style="padding-right:10px;" src="https://github.com/devicons/devicon/tree/v2.15.1/icons/tailwind/tailwind-original.svg" />
+<img align="left" alt="jQuery" width="30px" style="padding-right:10px;" src="https://github.com/devicons/devicon/tree/v2.15.1/icons/jquery/jquery-original.svg" />
+<img align="left" alt="JavaScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
+<img align="left" alt="React" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
+<img align="left" alt="Figma" width="30px" style="padding-right:10px;" src="https://raw.githubusercontent.com/devicons/devicon/v2.15.1/icons/figma/figma-original.svg" />
+<br />
  
 
 <h2> 🤳 Connect with me:</h2>
