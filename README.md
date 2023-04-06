@@ -39,5 +39,5 @@
 ### 📊 Stats
 
 ![Labinot's GitHub stats](https://github-readme-stats.vercel.app/api?username=labinotveseli&show_icons=true&theme=gruvbox)
-  
-[![Labinot's GitHub stats](https://github-readme-stats.vercel.app/api?username=labinotveseli)](https://github.com/labinotveseli/github-readme-stats)
+<!-- ![GitHub Streak](https://streak-stats.demolab.com?user=labinotveseli&theme=gruvbox&border_radius=4.5) -->
+
