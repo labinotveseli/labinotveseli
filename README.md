@@ -35,5 +35,9 @@
 <p align="left"> <a href="https://www.linkedin.com/in/labinotveseli/" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" alt="linkedin" width="24px"/> in:labinotveseli</a><br> <a href="https://www.instagram.com/labinotveseli_/" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" alt="instagram" width="24px"/> labinotveseli_</a><br> <a href="https://twitter.com/LabinotVeseli" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" alt="twitter" width="24px"/> @LabinotVeseli</a><br/> <a href="mailto:labinotveseli1@gmail.com" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" alt="gmail" width="24px"/> labinotveseli1@gmail.com</a> </p>
   
 <hr>
+
+### 📊 Stats
+
+![Labinot's GitHub stats](https://github-readme-stats.vercel.app/api?username=labinotveseli&show_icons=true&theme=gruvbox)
   
 [![Labinot's GitHub stats](https://github-readme-stats.vercel.app/api?username=labinotveseli)](https://github.com/labinotveseli/github-readme-stats)
