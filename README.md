@@ -24,7 +24,9 @@
 
 <h2> 🤳 Connect with me:</h2>
 
-[LinkedIn](https://www.linkedin.com/in/labinotveseli/) [<img align="left" alt="LinkedIn" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg"]
+<p align="left"> <a href="https://www.linkedin.com/in/labinotveseli/" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" alt="linkedin" width="30px"/> in:labinotveseli</a><br/> <a href="https://www.instagram.com/labinotveseli_/" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" alt="instagram" width="30px"/> labinotveseli_</a><br/>
+  
+- [LinkedIn](https://www.linkedin.com/in/labinotveseli/) [<img align="left" alt="LinkedIn" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg"]
   
 [<img align="left" alt="LinkedIn" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="Instagram" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
