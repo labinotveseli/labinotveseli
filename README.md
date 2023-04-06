@@ -1,6 +1,6 @@
 <h1>Hey there, fellow web wanderer!<br> 
-<h2><a href="https://github.com/labinotveseli">I am Labinot Veseli, a Front-End Developer</a></h2>
-<h4>I'm a passionate Frontend Web Developer with an eye for detail and a love for all things digital. I specialize in developing visually stunning and intuitive web experiences that engage and delight users. My toolkit includes HTML, CSS, JavaScript, and a whole bunch of frontend frameworks and libraries like React, Bootstrap and more, which I use to build responsive, scalable, and efficient web applications that are as stylish as they are functional. When I'm not tinkering with code, you can usually find me exploring new design trends and experimenting with new web development techniques. If you're as passionate about web development as I am, let's connect and geek out together!</h4>
+<h3><a href="https://github.com/labinotveseli">I am Labinot Veseli, a Front-End Developer</a>
+I'm a passionate Frontend Web Developer with an eye for detail and a love for all things digital. I specialize in developing visually stunning and intuitive web experiences that engage and delight users. My toolkit includes HTML, CSS, JavaScript, and a whole bunch of frontend frameworks and libraries like React, Bootstrap and more, which I use to build responsive, scalable, and efficient web applications that are as stylish as they are functional. When I'm not tinkering with code, you can usually find me exploring new design trends and experimenting with new web development techniques. If you're as passionate about web development as I am, let's connect and geek out together!</h3>
 
 <h2>👨‍💻 Front-End Developer Projects:</h2>
 
