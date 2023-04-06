@@ -1,16 +1,28 @@
-### Hi there 👋
+<h1>Hi, I'm Labinot! <br/><a href="https://github.com/labinotveseli">A Front-End Developer</a>
 
-<!--
-**labinotveseli/labinotveseli** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<b>I'm a passionate <mark>Frontend Web Developer</mark> with an eye for detail and a love for all things digital. I specialize in creating visually stunning and intuitive web experiences that engage and delight users. My toolkit includes <strong>HTML, CSS, JavaScript</strong>, and a whole bunch of frontend frameworks and libraries like <strong>React, Bootstrap</strong> and more, which I use to build responsive, scalable, and efficient web applications that are as stylish as they are functional. When I'm not tinkering with code, you can usually find me exploring new design trends and experimenting with new web development techniques. If you're as passionate about web development as I am, let's connect and geek out together!</b>
 
-Here are some ideas to get you started:
+<h2>👨‍💻 Front-End Developer Projects:</h2>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- <b>REACT (React framework, JavaScript, Material Ui)</b><b>
+  - [Soon...](https://github.com/labinotveseli)
+- <b>JavaScript</b>
+  - [Soon...](https://github.com/labinotveseli)
+- <b>HTML, CSS, Bootstrap </b>
+  - [Multipurpose page - Landing Page](https://github.com/labinotveseli/multipurposepage)
+
+<h2>🎓 Certifications:</h2>
+
+- [Frontend Academy @ Creative Hub Kosovo]()
+- [Responsive Web Design](https://www.freecodecamp.org/certification/labinotveseli94/responsive-web-design)
+- [JavaScript Algorithms and Data Structures](https://www.freecodecamp.org/certification/labinotveseli94/javascript-algorithms-and-data-structures)
+
+<h2> 🤳 Connect with me:</h2>
+
+[labinotveseli1@gmail.com]
+[<img align="left" alt="LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+
+[linkedin]: https://www.linkedin.com/in/labinotveseli/
+[instagram]: https://www.instagram.com/labinotveseli_/
+
