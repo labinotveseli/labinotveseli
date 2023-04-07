@@ -10,7 +10,7 @@
   - [Soon...](https://github.com/labinotveseli)
 - <b>HTML, CSS, Bootstrap</b>
   - [Structura - Landing Page](https://github.com/labinotveseli/structura)
-  - [Multipurpose page - Landing Page, done in class](https://github.com/labinotveseli/multipurposepage)
+  - [Multipurpose - Landing Page (Class Project)](https://github.com/labinotveseli/multipurposepage)
 
 <h2>🎓 Certifications:</h2>
 
