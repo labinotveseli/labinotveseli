@@ -30,9 +30,9 @@
 <img align="left" alt="jQuery" width="30px" style="padding-right:10px;" src="https://raw.githubusercontent.com/devicons/devicon/v2.15.1/icons/jquery/jquery-original.svg" />
 <img align="left" alt="JavaScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
 <img align="left" alt="React" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
-<img align="left" alt="Figma" width="30px" style="padding-right:10px;" src="https://raw.githubusercontent.com/devicons/devicon/v2.15.1/icons/figma/figma-original.svg" /><br/>
-<br/>
-<br/>
+<img align="left" alt="Figma" width="30px" style="padding-right:10px;" src="https://raw.githubusercontent.com/devicons/devicon/v2.15.1/icons/figma/figma-original.svg" />
+<br>
+<br>
 <h2> 🤳 Connect with me:</h2>
 <p align="left"> <a href="https://www.linkedin.com/in/labinotveseli/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/v2.15.1/icons/linkedin/linkedin-original.svg" alt="linkedin" width="24px"/>  in:labinotveseli</a><br> <br><a href="https://www.instagram.com/labinotveseli_/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/e/e7/Instagram_logo_2016.svg" alt="instagram" width="24px"/>  labinotveseli_</a><br> <br><a href="https://twitter.com/LabinotVeseli" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/v2.15.1/icons/twitter/twitter-original.svg" alt="twitter" width="24px"/>  @LabinotVeseli</a><br> <br><a href="mailto:labinotveseli1@gmail.com" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" alt="gmail" width="24px"/>  labinotveseli1@gmail.com</a> </p>
 
