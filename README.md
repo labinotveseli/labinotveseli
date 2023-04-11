@@ -8,7 +8,7 @@
 - <b>REACT (React framework, JavaScript, Material Ui)</b><b>
   - [Soon...](https://github.com/labinotveseli)
 - <b>JavaScript</b>
-  - [Soon...](https://github.com/labinotveseli)
+  - [Barbershop Appointments App](https://github.com/labinotveseli/barbershop-app)
 - <b>HTML, CSS, Bootstrap</b>
   - [Honey Shop - Responsive website](https://github.com/labinotveseli/honeyshop-responsive-website)
   - [Structura - Landing Page](https://github.com/labinotveseli/structura)
