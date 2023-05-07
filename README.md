@@ -9,6 +9,7 @@
   - [Soon...](https://github.com/labinotveseli)
 - <b>JavaScript</b>
   - [Barbershop Appointments App](https://github.com/labinotveseli/barbershop-app)
+  - [21 Challenges/Solutions](https://github.com/labinotveseli/js-solutions)
 - <b>HTML, CSS, Bootstrap</b>
   - [Honey Shop - Responsive website](https://github.com/labinotveseli/honeyshop-responsive-website)
   - [Structura - Landing Page](https://github.com/labinotveseli/structura)
