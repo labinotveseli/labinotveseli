@@ -8,6 +8,7 @@
 - <b>REACT (React framework, JavaScript, Material UI...)</b><b>
   - [Color changer React APP](https://github.com/labinotveseli/color-changer)
 - <b>JavaScript</b>
+  - [Menu Items](https://github.com/labinotveseli/menu-items)
   - [Barbershop Appointments App](https://github.com/labinotveseli/barbershop-app)
   - [21 Challenges/Solutions](https://github.com/labinotveseli/js-solutions)
 - <b>HTML, CSS, Bootstrap</b>
