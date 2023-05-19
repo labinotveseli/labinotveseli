@@ -6,7 +6,8 @@
 <h2>👨‍💻 Front-End Development Projects:</h2>
 
 - <b>REACT (React framework, JavaScript, Material UI...)</b><b>
-  - [Color changer React APP](https://github.com/labinotveseli/color-changer)
+  - [Color changer App](https://github.com/labinotveseli/color-changer)
+  - [My Note App](https://github.com/labinotveseli/notebook-app)
 - <b>JavaScript</b>
   - [Menu Items](https://github.com/labinotveseli/menu-items)
   - [Barbershop Appointments App](https://github.com/labinotveseli/barbershop-app)
