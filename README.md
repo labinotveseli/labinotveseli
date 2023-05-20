@@ -8,7 +8,7 @@
 - <b>REACT (React framework, JavaScript, Material UI...)</b><b>
   - [Color changer App](https://github.com/labinotveseli/color-changer)
   - [My Note App](https://github.com/labinotveseli/notebook-app)
-  - [PhoneBook App](https://github.com/labinotveseli/phonebook-app)
+  - [PhoneBook App](https://github.com/labinotveseli/phone-book)
 - <b>JavaScript</b>
   - [Menu Items](https://github.com/labinotveseli/menu-items)
   - [Barbershop Appointments App](https://github.com/labinotveseli/barbershop-app)
