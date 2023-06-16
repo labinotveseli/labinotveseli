@@ -5,15 +5,16 @@
 <br/>
 <h2>👨‍💻 Front-End Development Projects:</h2>
 
-- <b>REACT (React framework, JavaScript, Material UI...)</b><b>
+- <b>REACT (React framework, JavaScript, TypeScript, Material UI...)</b><b>
   - [Color changer App](https://github.com/labinotveseli/color-changer)
   - [My Note App](https://github.com/labinotveseli/notebook-app)
   - [PhoneBook App](https://github.com/labinotveseli/phone-book)
+  - [Expense Tracker](https://github.com/labinotveseli/expense-tracker)
 - <b>JavaScript</b>
   - [Menu Items](https://github.com/labinotveseli/menu-items)
   - [Barbershop Appointments App](https://github.com/labinotveseli/barbershop-app)
   - [21 Challenges/Solutions](https://github.com/labinotveseli/js-solutions)
-- <b>HTML, CSS, Bootstrap</b>
+- <b>HTML, CSS, Bootstrap...</b>
   - [Honey Shop - Responsive website](https://github.com/labinotveseli/honeyshop-responsive-website)
   - [Structura - Landing Page](https://github.com/labinotveseli/structura)
   - [Multipurpose - Landing Page](https://github.com/labinotveseli/multipurposepage)
