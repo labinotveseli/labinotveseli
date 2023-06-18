@@ -6,7 +6,6 @@
 <h2>👨‍💻 Front-End Development Projects:</h2>
 
 - <b>REACT (React framework, JavaScript, TypeScript, Material UI...)</b><b>
-  - [Color changer App](https://github.com/labinotveseli/color-changer)
   - [My Note App](https://github.com/labinotveseli/notebook-app)
   - [PhoneBook App](https://github.com/labinotveseli/phone-book)
   - [Expense Tracker](https://github.com/labinotveseli/expense-tracker)
