@@ -61,8 +61,8 @@
 ![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb)
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
-![GitLab](https://img.shields.io/badge/-GitLab-FCA121?style=flat-square&logo=gitlab)
 ![BitBucket](https://img.shields.io/badge/-BitBucket-darkblue?style=flat-square&logo=bitbucket)
+
 <img align="left" alt="Tailwind" width="23px" style="padding-right:10px;" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/tailwindcss/tailwindcss-plain.svg" />
 <img align="left" alt="jQuery" width="23px" style="padding-right:10px;" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/jquery/jquery-original.svg" />
 <img align="left" alt="MaterialUI" width="23px" style="padding-right:10px;" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/materialui/materialui-original.svg" />
