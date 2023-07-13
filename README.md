@@ -15,7 +15,7 @@
 <br/>
 <br/>
 <h2>👨‍💻 Projects:</h2>
-<h6>My projects consist of technologies, frameworks, libraries, and different work practices. They are HTML, CSS and SCSS, Tailwind, MaterialUI, Bootstrap, JavaScript, TypeScript, ReactJS, Redux, and more. Below you can find all my projects:</h6>
+<h6>My projects use a variety of technologies, frameworks, libraries, and working methods, including HTML, CSS, SCSS, Tailwind, MaterialUI, Bootstrap, JavaScript, TypeScript, ReactJS, Redux, and more. Below you can find all my projects:</h6>
 
 - <b>Projects including mainly JavaScript, React, Redux, TypeScript, Material UI, ChakraUI, Bootstrap, and more:</b><b>
   - [My Note App](https://github.com/labinotveseli/notebook-app)
