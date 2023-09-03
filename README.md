@@ -18,6 +18,7 @@
 <h6>My projects use a variety of technologies, frameworks, libraries, and working methods, including HTML, CSS, SCSS, Tailwind, MaterialUI, Bootstrap, JavaScript, TypeScript, ReactJS, Redux, and more. Below you can find all my projects:</h6>
 
 - <b>Projects including mainly JavaScript, React, Redux, TypeScript, Material UI, ChakraUI, Bootstrap, and more:</b><b>
+  - [StarLabs Project Management System - MERN Stack](https://github.com/labinotveseli/starlabs-pms)
   - [My Note App](https://github.com/labinotveseli/notebook-app)
   - [PhoneBook App](https://github.com/labinotveseli/phone-book)
   - [Expense Tracker](https://github.com/labinotveseli/expense-tracker)
